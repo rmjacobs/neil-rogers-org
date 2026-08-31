@@ -1578,6 +1578,12 @@
             "mp3": "/sounds/Puke.mp3"
         },
         {
+            "name": "Randi? What!",
+            "artist": "Randi Rhodes",
+            "duration": "0:04",
+            "mp3": "/sounds/Randi-What.mp3"
+        },
+        {
             "name": "Rap On It All Year Long",
             "artist": "Jim Mandich",
             "duration": "0:04",
